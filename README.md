@@ -205,5 +205,5 @@ pip install -r requirements.txt --force-reinstall
 
 ---
 
-**祝游戏愉快！** ??
+**祝游戏愉快，玩的开心！** ??（做的很烂勿喷ε=ε=ε=ε=ε=ε=┌(;￣◇￣)┘）
 
